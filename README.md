@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/YasinHeidari">
-    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=023E8A&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Yasin+Heidari;Junior; Front-end Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=2BB1D4&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Yasin+Heidari;Junior; Front-end Developer" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -26,7 +26,7 @@
 
 <a href="https://github.com/YasinHeidari">
     <p align="center">
-         <img src="https://skillicons.dev/icons?i=github,vscode,linkedin,git,react,js,jquery,bootstrap,html,css,sass,ts&perline=8" />
+         <img src="https://skillicons.dev/icons?i=github,vscode,linkedin,git,react,js,jquery,bootstrap,html,css,sass,rest,ts&perline=8" />
     </p>
    
 </a>
