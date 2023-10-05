@@ -10,7 +10,7 @@
 <a href="https://t.me/Yasiin_heidari">
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
 </a> 
-<a href="https://www.linkedin.com/in/yasinheidari">
+<a href="https://www.linkedin.com/in/yasin-heidari-797975230">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:yasin.gh.heidari@gmail.com">
