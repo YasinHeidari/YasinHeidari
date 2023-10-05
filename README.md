@@ -26,7 +26,7 @@
 
 <a href="https://github.com/YasinHeidari">
     <p align="center">
-         <img src="https://skillicons.dev/icons?i=github,vscode,linkedin,git,react,js,jquery,bootstrap,html,css,sass,rest,ts&perline=8" />
+         <img src="https://skillicons.dev/icons?i=github,vscode,linkedin,git,react,js,jquery,bootstrap,html,css,sass,ts&perline=8" />
     </p>
    
 </a>
