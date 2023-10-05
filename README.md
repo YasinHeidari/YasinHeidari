@@ -7,7 +7,7 @@
 <a href="https://github.com/YasinHeidari">
     <img src="https://img.shields.io/badge/YasinHeidari-red?style=flat-square">
 </a> 
-<a href="https://t.me/YasinHeidarii">
+<a href="https://t.me/Yasiin_Heidari">
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
 </a> 
 <a href="https://www.linkedin.com/in/yasinheidari">
